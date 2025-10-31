@@ -4,14 +4,6 @@ Under Dr. Qian Wang, Stanford University
 
 ---
 
-### 🧬 Research Summary
-Conducted bulk and single-cell RNA sequencing analysis on diabetic cell datasets under Dr. Qian Wang.  
-
-Helped teach R programming fundamentals and contributed to data analysis workflows.  
-
-Authored an abstract summarizing the findings on gene expression variations related to diabetes.
-
----
 
 ### 📄 Abstract
 **Development of R-Based Computational Tools to Investigate the IFN-γ–APOL1/APOL2 Axis in Renal Injury**
