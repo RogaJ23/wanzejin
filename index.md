@@ -6,18 +6,27 @@ Under Dr. Qian Wang, Stanford University
 
 ### 🧬 Research Summary
 Conducted bulk and single-cell RNA sequencing analysis on diabetic cell datasets under Dr. Qian Wang.  
+
 Helped teach R programming fundamentals and contributed to data analysis workflows.  
+
 Authored an abstract summarizing the findings on gene expression variations related to diabetes.
 
 ---
 
 ### 📄 Abstract
 **Development of R-Based Computational Tools to Investigate the IFN-γ–APOL1/APOL2 Axis in Renal Injury**
-[Click here to view abstract (PDF)](https://drive.google.com/file/d/1xF_pjq_CPEHliJgg-w1zDRQbMFRrcmZ_/view?usp=sharing)
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1xF_pjq_CPEHliJgg-w1zDRQbMFRrcmZ_/view?usp=sharing" target="_blank" style="color:#5a2ca0; font-weight:bold; font-size:18px;">
+     Click here to view abstract (PDF)
+  </a>
+</p>
+
 
 
 ---
 
 ### 🔗 Contact
 Email: rogerjin20080515@gmail.com 
+
 Phone: 6692949603
